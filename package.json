@@ -1,0 +1,28 @@
+{
+	"name": "safe-array-iterator",
+	"version": "0.0.0",
+	"description": "Get an iterator for an array that's robust against prototype modification.",
+	"main": "index.js",
+	"exports": {
+		".": "./index.js",
+		"./package.json": "./package.json"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ljharb/safe-array-iterator.git"
+	},
+	"keywords": [
+		"safe",
+		"array",
+		"iterator"
+	],
+	"author": "Jordan Harband <ljharb@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ljharb/safe-array-iterator/issues"
+	},
+	"homepage": "https://github.com/ljharb/safe-array-iterator#readme"
+}
